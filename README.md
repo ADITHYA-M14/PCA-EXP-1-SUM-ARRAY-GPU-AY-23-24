@@ -18,7 +18,6 @@ Google Colab with NVCC Compiler
 
 
 
-
 ## PROCEDURE:
 
 1. Initialize the device and set the device properties.
